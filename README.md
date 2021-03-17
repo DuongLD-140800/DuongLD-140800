@@ -7,12 +7,12 @@
 ---
 
 - 👋 Hi, I’m @DuongLD-140800
-- 👀 From **[Ha Noi](https://en.wikipedia.org/wiki/Hanoi)
-- 🏢 I am studying computer science at **[HUST](https://en.wikipedia.org/wiki/Hanoi_University_of_Science_and_Technology)
+- 👀 From **[Ha Noi](https://en.wikipedia.org/wiki/Hanoi)**
+- 🏢 I am studying computer science at **[HUST](https://en.wikipedia.org/wiki/Hanoi_University_of_Science_and_Technology)**
 - ❤️ I love programming and I love ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 
 ### 📫 Contact to me:
-- Email: [![Email](https://img.shields.io/badge/albert.abdilim@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:duong14082000@gmail.com)
+- Email: [![Email](https://img.shields.io/badge/duong14082000@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:duong14082000@gmail.com)
 
 ---
 
