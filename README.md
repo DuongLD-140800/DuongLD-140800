@@ -8,6 +8,8 @@
 - 👀 I’m 
 - 📫 How to reach me: https://www.facebook.com/duong.ld.hust
 
+---
+
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
