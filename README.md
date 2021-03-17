@@ -2,9 +2,8 @@
   <img src="https://github.com/DuongLD-140800/DuongLD-140800/blob/main/Duong.gif">
 </p>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 ---
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 👋 Hi, I’m @DuongLD-140800
 - 👀 From **[Ha Noi](https://en.wikipedia.org/wiki/Hanoi)**, which is the capital of **[Viet Nam](https://en.wikipedia.org/wiki/Vietnam)**
@@ -12,8 +11,9 @@
 - ❤️ I love programming and I love ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 
 ### 📫 Contact to me:
-- Email: [![Email](https://img.shields.io/badge/duong14082000@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:duong14082000@gmail.com)
+- Email: [![Email](https://img.shields.io/badge/duong14082000-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:duong14082000@gmail.com)
 - FaceBook: [![FaceBook](https://img.shields.io/badge/duong.ld.hust-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/duong.ld.hust/)
+- OutLooK: [![OutLook](https://img.shields.io/badge/duong.ld180057-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:duong.ld180057@sis.hust.edu.vn)
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
