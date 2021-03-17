@@ -6,7 +6,7 @@
 - 👀 I’m interested in APP DEVELOPER
 - 📫 How to reach me: https://www.facebook.com/duong.ld.hust
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="right" alt="GIF" height="170px" src="https://open.spotify.com/collection/tracks" />
 
 ### Spotify Playing 🎧
 
