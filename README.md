@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DuongLD-140800/DuongLD-140800/blob/main/Duong.gif">
+  <img src="https://github.com/DuongLD-140800/DuongLD-140800/blob/main/Presentation.gif">
 </p>
 
 ---
