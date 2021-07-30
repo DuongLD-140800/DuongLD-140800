@@ -44,7 +44,7 @@
 
 ---
 
-![Duong-LD's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
+![Duong-LD's GitHub stats](https://github-readme-stats.vercel.app/api?username=Duong-ld&show_icons=true&theme=tokyonight)
 <!---
 DuongLD-140800/DuongLD-140800 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
