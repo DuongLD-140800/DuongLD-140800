@@ -6,10 +6,10 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 👋 Hi, I’m @DuongLD-140800
+- 👋 Hi, I’m @DuongLD
 - 👀 From **[Ha Noi](https://en.wikipedia.org/wiki/Hanoi)**, which is the capital of **[Viet Nam](https://en.wikipedia.org/wiki/Vietnam)**
 - 🏢 I am studying computer science at **[HUST](https://en.wikipedia.org/wiki/Hanoi_University_of_Science_and_Technology)**
-- ❤️ I love programming and I love ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
+- ❤️ I love programming and beatifull girl also
 
 ### 📫 Contact to me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 - Email: [![Email](https://img.shields.io/badge/duong14082000-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:duong14082000@gmail.com)
