@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DuongLD-140800/DuongLD-140800/blob/main/hello.gif">
+  <img src="https://github.com/DuongLD-140800/DuongLD-140800/blob/main/dino.gif">
 </p>
 
 ---
@@ -12,6 +12,7 @@
 - ❤️ I love programming and beautiful girl also
 
 ### 📫 Contact to me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
+
 - Email: [![Email](https://img.shields.io/badge/duong14082000-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:duong14082000@gmail.com)
 - FaceBook: [![FaceBook](https://img.shields.io/badge/duong.ld.hust-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/duong.ld.hust/)
 - OutLooK: [![OutLook](https://img.shields.io/badge/duong.ld180057-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:duong.ld180057@sis.hust.edu.vn)
@@ -26,7 +27,7 @@
 
 ---
 
-### Languages and Tools 🛠 
+### Languages and Tools 🛠
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -43,6 +44,7 @@
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Duong-ld&show_icons=true&theme=tokyonight)
+
 <!---
 DuongLD-140800/DuongLD-140800 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
